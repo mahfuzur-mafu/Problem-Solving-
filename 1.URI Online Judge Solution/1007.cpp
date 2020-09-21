@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+  int A,B,C,D,DIFFERENCE;
+
+   cin>>A>>B>>C>>D;
+
+  DIFFERENCE=((A*B)-(C*D));
+
+  cout<<"DIFERENCA = "<<DIFFERENCE<<endl;
+
+    return 0;
+}
