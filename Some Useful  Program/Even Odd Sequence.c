@@ -1,10 +1,10 @@
 #include <stdio.h>
 int main()
 {
-    int n,i,j;
+    int n,i,j=0;
     scanf("%d",&n);
     int arr[n];
-    for(i=1,j=0; i<=n;i++)
+    for(i=1;i<=n;i++)
     {
         if(i%2==0)
         {
