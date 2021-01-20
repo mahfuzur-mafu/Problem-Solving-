@@ -14,6 +14,5 @@ int main()
         sum=sum*i;
     }
     cout<<sum<<endl;
-
     return 0;
 }
