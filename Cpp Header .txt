@@ -29,4 +29,4 @@ using namespace std;
 #define Abs(x) ((x,0)?-(x):(x))
 #define Maxmum(x,y) (x^((x^y)&-(x<y)))
 #define Minium(x,y) (y^((x^y)&-(x<y)))
-#define Swap(a,b) (a=a^b,b=a^b,a=a^b) 
+#define Swap(a,b) (a=a^b,b=a^b,a=a^b)
