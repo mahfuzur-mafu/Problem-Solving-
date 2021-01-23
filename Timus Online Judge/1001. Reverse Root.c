@@ -15,5 +15,4 @@ int main()
         printf("%.4lf\n",b[j]);
     }
     return 0;
-
 }
