@@ -17,7 +17,6 @@ int main()
         }
         if(sum>=0)
         printf("Case %d: %d\n",i,sum);
-
     }
     return 0;
 }
