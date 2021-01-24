@@ -14,7 +14,6 @@ int main()
 
             scanf("%d",&a);
             if(a>0)   sum=sum+a;
-
         }
         if(sum>=0)
         printf("Case %d: %d\n",i,sum);
