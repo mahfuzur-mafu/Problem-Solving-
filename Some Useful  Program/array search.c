@@ -19,7 +19,6 @@ int main ()
     for(i=0; i<t; i++)
     {
 
-
             printf("Search Elememt : ");
             scanf("%d",&s);
             printf("\n\n");
