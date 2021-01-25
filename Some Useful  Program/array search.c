@@ -20,7 +20,6 @@ int main ()
     {
 
 
-
             printf("Search Elememt : ");
             scanf("%d",&s);
             printf("\n\n");
