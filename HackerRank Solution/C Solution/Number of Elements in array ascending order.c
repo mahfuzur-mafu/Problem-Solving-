@@ -51,6 +51,7 @@ int main()
             printf("%d %d\n", arr[i], freq[i]);
         }
     }
+  return 0;
 }
 
 
