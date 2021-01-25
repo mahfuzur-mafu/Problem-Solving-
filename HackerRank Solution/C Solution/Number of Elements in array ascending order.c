@@ -42,7 +42,6 @@ int main()
         }
     }
 
-
     for(i=0; i<n; i++)
     {
         if(freq[i] != 0)
