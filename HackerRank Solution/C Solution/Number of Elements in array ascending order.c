@@ -3,7 +3,6 @@ int main()
 {
   int arr[10000];
   int freq[10000];
-
     int n,i,j;
     int count,swap;
     scanf("%d", &n);
