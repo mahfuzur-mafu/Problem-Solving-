@@ -24,7 +24,6 @@ int main()
                 first = temp;
             }
         }
-
         printf("%d\n", (first - last) * 2);
     }
     return 0;
