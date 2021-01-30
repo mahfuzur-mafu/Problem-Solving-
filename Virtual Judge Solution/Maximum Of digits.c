@@ -1,7 +1,6 @@
 #include <bits/stdc++.h>
 
 using namespace std;
-
 int main()
 {
     int n,i,a[10]={4,7,47,74,447,474,477,774,747,744},cnt=0;
