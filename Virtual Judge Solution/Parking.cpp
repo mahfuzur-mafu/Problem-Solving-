@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <bits/stdc++.h>
-
 int main()
 {
     int i,n,temp;
