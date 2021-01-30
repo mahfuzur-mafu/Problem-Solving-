@@ -11,7 +11,6 @@ int main()
         printf("YES\n");
         break;
     }
-
     else cnt++;
     }
     if(cnt==10) printf("NO\n");
