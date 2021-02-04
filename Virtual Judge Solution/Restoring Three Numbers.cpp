@@ -18,4 +18,5 @@ int main()
     a3 = arr[3] - arr[2];
     cout << a1 << " " << a2 << " " << a3 << endl;
     return 0;
+    
 }
