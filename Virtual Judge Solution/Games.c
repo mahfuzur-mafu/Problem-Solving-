@@ -18,7 +18,6 @@ int main()
             if (a[i] == b[j])
                 count++;
         }
-
     }
     printf("%d\n",count);
     return 0;
