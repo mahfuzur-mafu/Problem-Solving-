@@ -14,5 +14,6 @@ int main()
         run = run+3;
     }
     printf("%d\n",run);
+    retrun 0;
 }
 
